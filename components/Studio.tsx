@@ -36,7 +36,7 @@ export const Studio: React.FC = () => {
              <span className="text-zinc-500 font-mono text-xs uppercase tracking-widest font-space-mono">Studio</span>
           </div>
           <h3 className="text-2xl text-white font-jakarta tracking-tight font-medium">
-            Jaime Vieira
+            Jaime Paiva
           </h3>
           <div className="space-y-6 text-zinc-500 text-base font-space-mono leading-relaxed">
             <p>
