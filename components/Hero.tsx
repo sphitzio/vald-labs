@@ -76,7 +76,7 @@ export const Hero: React.FC = () => {
                   muted 
                   loop 
                   playsInline
-                  className="w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity duration-700"
+                  className="w-full h-full object-cover opacity-100 hover:opacity-100 transition-opacity duration-700"
                 />
              </div>
              {/* Glow effect behind the video */}
