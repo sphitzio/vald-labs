@@ -6,7 +6,7 @@ export interface Product {
   tag: string;
   description: string;
   price: string;
-  icon: LucideIcon;
+  image: string;
   isFlagship?: boolean;
 }
 
