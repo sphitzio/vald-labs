@@ -26,7 +26,7 @@ const products: Product[] = [
     tag: 'ACCESSORY',
     description: 'Modular, industrial-strength stands that turn desk chaos into ergonomic order.',
     price: 'TBA',
-    image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=800&auto=format&fit=crop'
+    image: 'https://i.postimg.cc/t4dWfX0L/Gemini-Generated-Image-68yj9168yj9168yj.png'
   }
 ];
 
