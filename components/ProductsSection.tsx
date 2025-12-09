@@ -1,7 +1,6 @@
 import React from 'react';
 import { ProductCard } from './ProductCard';
 import { Product } from '../types';
-import { Cpu, BarChart3, Layers } from 'lucide-react';
 
 const products: Product[] = [
   {
@@ -10,7 +9,7 @@ const products: Product[] = [
     tag: 'FLAGSHIP',
     description: 'A portable, desktop-first sequencer with modular DNA — built for the art of shaping chaos.',
     price: 'TBA',
-    icon: Cpu,
+    image: 'https://images.unsplash.com/photo-1550009158-9ebf69173e03?q=80&w=800&auto=format&fit=crop',
     isFlagship: true
   },
   {
@@ -19,7 +18,7 @@ const products: Product[] = [
     tag: 'UTILITY',
     description: 'A retrofuturistic desktop market terminal for humanized data. Signal over noise.',
     price: 'TBA',
-    icon: BarChart3
+    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800&auto=format&fit=crop'
   },
   {
     id: '3',
@@ -27,7 +26,7 @@ const products: Product[] = [
     tag: 'ACCESSORY',
     description: 'Modular, industrial-strength stands that turn desk chaos into ergonomic order.',
     price: 'TBA',
-    icon: Layers
+    image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=800&auto=format&fit=crop'
   }
 ];
 
