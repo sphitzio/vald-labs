@@ -9,7 +9,7 @@ const products: Product[] = [
     tag: 'FLAGSHIP',
     description: 'A portable, desktop-first sequencer with modular DNA — built for the art of shaping chaos.',
     price: 'TBA',
-    image: 'https://images.unsplash.com/photo-1550009158-9ebf69173e03?q=80&w=800&auto=format&fit=crop',
+    image: 'https://i.postimg.cc/rwnQVvNS/cons-1.jpg',
     isFlagship: true
   },
   {
@@ -18,7 +18,7 @@ const products: Product[] = [
     tag: 'UTILITY',
     description: 'A retrofuturistic desktop market terminal for humanized data. Signal over noise.',
     price: 'TBA',
-    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800&auto=format&fit=crop'
+    image: 'https://i.postimg.cc/G2vdkPMc/Untitled-1.jpg'
   },
   {
     id: '3',
